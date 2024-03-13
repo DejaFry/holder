@@ -1,1 +1,2 @@
-gas grow
+#gas grow
+.int=10;
